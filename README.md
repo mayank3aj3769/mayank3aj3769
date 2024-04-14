@@ -12,10 +12,10 @@ Explore my projects to see detailed applications of machine learning and deep le
 A collection of academic projects demonstrating the use of deep learning techniques in various scenarios:
 
 - **[Lexical Complexity Predictor](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/11548fc1881932d000cfa9ddf6e6635c7c999573/Lexical%20Complexity%20Score%20Predictor%20using%20a%20BERT%20Based%20model)**: Predicting the complexity of words using transformer-based models like BERT and RoBERTa.
-- **[LLM for Sentiment Analysis of market conditions based on global news reports ](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Sentiment_Analysis_Global_News)**: Using sentiment analysis to predict market conditions from global news reports.
-- **[Sentiment Analysis of IMDB Reviews](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Sentiment_Analysis_IMDB)**: Analyzing sentiments in movie reviews using a Word2Vec model in TensorFlow.
-- **[Semantic Network from Tweets](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Semantic_Network_Tweets)**: Building semantic networks from tweets containing specific keywords.
-- **[N-Gram and RNN Text Generator](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/NGram_RNN_Text_Generation)**: Text generation using N-Gram models and RNNs with TensorFlow.
+- **[LLM for Sentiment Analysis of market conditions based on global news reports ](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/11548fc1881932d000cfa9ddf6e6635c7c999573/Sentiment%20Analysis%20of%20market%20conditions%20based%20on%20global%20news%20reports.ipynb)**: Using sentiment analysis to predict market conditions from global news reports.
+- **[Sentiment Analysis of IMDB Reviews](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/11548fc1881932d000cfa9ddf6e6635c7c999573/Sentiment%20analysis%20of%20IMDB%20reviews%20using%20word2vec%20in%20np%20and%20tf.ipynb)**: Analyzing sentiments in movie reviews using a Word2Vec model in TensorFlow.
+- **[Semantic Network from Tweets](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/11548fc1881932d000cfa9ddf6e6635c7c999573/Semantic%20Network%20based%20on%20tweets%20containing%20a%20keyword.ipynb)**: Building semantic networks from tweets containing specific keywords.
+- **[N-Gram and RNN Text Generator](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/11548fc1881932d000cfa9ddf6e6635c7c999573/N-gram%20and%20RNN%20based%20model%20for%20text%20generation.ipynb)**: Text generation using N-Gram models and RNNs with TensorFlow.
   
 ### [SocialMediaApp](https://thread-mraj.vercel.app/)
 A modern, responsive social media platform inspired by Meta's Threads. Built with TypeScript, Next.js, and Tailwind CSS.

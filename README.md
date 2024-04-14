@@ -7,13 +7,13 @@ Explore my projects to see detailed applications of machine learning and deep le
 
 ### [Deep Learning Projects](https://github.com/mayank3aj3769/Machine-Learning-Projects.git)
 A collection of academic projects demonstrating the use of deep learning techniques in various scenarios:
-- **[Logistic Regression for Message Classification](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Logistics_Regression_Implementation)**: An implementation of logistic regression for classifying messages as spam or ham using NumPy.
+
+- **[Lexical Complexity Predictor](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/11548fc1881932d000cfa9ddf6e6635c7c999573/Lexical%20Complexity%20Score%20Predictor%20using%20a%20BERT%20Based%20model)**: Predicting the complexity of words using transformer-based models like BERT and RoBERTa.
+- **[LLM for Sentiment Analysis of market conditions based on global news reports ](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Sentiment_Analysis_Global_News)**: Using sentiment analysis to predict market conditions from global news reports.
 - **[Sentiment Analysis of IMDB Reviews](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Sentiment_Analysis_IMDB)**: Analyzing sentiments in movie reviews using a Word2Vec model in TensorFlow.
 - **[Semantic Network from Tweets](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Semantic_Network_Tweets)**: Building semantic networks from tweets containing specific keywords.
 - **[N-Gram and RNN Text Generator](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/NGram_RNN_Text_Generation)**: Text generation using N-Gram models and RNNs with TensorFlow.
-- **[Lexical Complexity Predictor](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/11548fc1881932d000cfa9ddf6e6635c7c999573/Lexical%20Complexity%20Score%20Predictor%20using%20a%20BERT%20Based%20model)**: Predicting the complexity of words using transformer-based models like BERT and RoBERTa.
-- **[Sentiment Analysis from Global News](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Sentiment_Analysis_Global_News)**: Using sentiment analysis to predict market conditions from global news reports.
-
+  
 ### [SocialMediaApp](https://thread-mraj.vercel.app/)
 A modern, responsive social media platform inspired by Meta's Threads. Built with TypeScript, Next.js, and Tailwind CSS.
 

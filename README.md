@@ -1,16 +1,37 @@
-### Hi there 👋
+# Mayank Raj
 
-<!--
-**mayank3aj3769/mayank3aj3769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Mayank, a passionate Machine Learning Engineer currently based in Jersey City, NJ. I specialize in deep learning, natural language processing, and semantic analysis. I have a strong background in computer science and engineering from Manipal Institute of Technology and a Master's degree in Machine Learning from Stevens Institute of Technology. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mayank-raj77) or check out my [portfolio](https://mayank-raj37.netlify.app/).
 
-Here are some ideas to get you started:
+## Projects
+Explore my projects to see detailed applications of machine learning and deep learning across various domains:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Deep Learning Projects](https://github.com/mayank3aj3769/Machine-Learning-Projects.git)
+A collection of academic projects demonstrating the use of deep learning techniques in various scenarios:
+- **[Logistic Regression for Message Classification](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Logistics_Regression_Implementation)**: An implementation of logistic regression for classifying messages as spam or ham using NumPy.
+- **[Sentiment Analysis of IMDB Reviews](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Sentiment_Analysis_IMDB)**: Analyzing sentiments in movie reviews using a Word2Vec model in TensorFlow.
+- **[Semantic Network from Tweets](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Semantic_Network_Tweets)**: Building semantic networks from tweets containing specific keywords.
+- **[N-Gram and RNN Text Generator](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/NGram_RNN_Text_Generation)**: Text generation using N-Gram models and RNNs with TensorFlow.
+- **[Lexical Complexity Predictor](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/11548fc1881932d000cfa9ddf6e6635c7c999573/Lexical%20Complexity%20Score%20Predictor%20using%20a%20BERT%20Based%20model)**: Predicting the complexity of words using transformer-based models like BERT and RoBERTa.
+- **[Sentiment Analysis from Global News](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/main/Sentiment_Analysis_Global_News)**: Using sentiment analysis to predict market conditions from global news reports.
+
+### [SocialMediaApp](https://thread-mraj.vercel.app/)
+A modern, responsive social media platform inspired by Meta's Threads. Built with TypeScript, Next.js, and Tailwind CSS.
+
+## Skills
+- **Programming Languages**: Python, C++, JavaScript, Java, Go, TypeScript
+- **Libraries/Frameworks**: TensorFlow, PyTorch, React.js, Next.js, Node.js, Docker, Kubernetes
+- **Databases**: MongoDB, SQL, DynamoDB
+- **Tools**: AWS, Apache Kafka, Jenkins, Git
+
+## Work Experience
+- **Micron Technology**: Improved deep learning models and optimized data pipelines for faster and more efficient processing.
+- **BYJU'S**: Developed robust APIs and improved the performance of high-traffic interfaces.
+- **KloudOne**: Enhanced container security platform deployments and integrated continuous integration/continuous deployment workflows.
+
+## Education
+- **Master of Science in Machine Learning**, Stevens Institute of Technology
+- **Bachelor of Technology in Computer Science and Engineering**, Manipal Institute of Technology
+
+## Publications
+- [Deep Neural Network Approach for Navigation of Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9418189): My research, published in IEEE, explores the use of CNNs for autonomous vehicle navigation.
+

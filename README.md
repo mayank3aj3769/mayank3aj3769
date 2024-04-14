@@ -1,7 +1,8 @@
 # Mayank Raj
 
-Hello! I'm Mayank, a passionate Machine Learning Engineer currently based in Jersey City, NJ. I specialize in deep learning, natural language processing, and semantic analysis. I have a strong background in computer science and engineering from Manipal Institute of Technology and a Master's degree in Machine Learning from Stevens Institute of Technology. Feel free to connect with me on 
-[LinkedIn](www.linkedin.com/in/mayank-raj77) or check out my [portfolio](https://mayank-raj37.netlify.app/).
+Hello! I'm Mayank, a passionate Machine Learning Engineer currently based in Jersey City, NJ. I specialize in deep learning, natural language processing, and semantic analysis. I have a strong background in computer science and engineering from Manipal Institute of Technology and a Master's degree in Machine Learning from Stevens Institute of Technology. Feel free to connect with me over linkedin.
+- [LinkedIn](www.linkedin.com/in/mayank-raj77) 
+- [portfolio](https://mayank-raj37.netlify.app/).
 
 ## Projects
 Explore my projects to see detailed applications of machine learning and deep learning across various domains:

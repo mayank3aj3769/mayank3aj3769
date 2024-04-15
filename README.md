@@ -20,20 +20,21 @@ A collection of academic projects demonstrating the use of deep learning techniq
 A modern, responsive social media platform inspired by Meta's Threads. Built with TypeScript, Next.js, and Tailwind CSS.
 
 ## Skills
-- **Programming Languages**: Python, C++, JavaScript, Java, Go, TypeScript
-- **Libraries/Frameworks**: TensorFlow, PyTorch, React.js, Next.js, Node.js, Docker, Kubernetes
-- **Databases**: MongoDB, SQL, DynamoDB
-- **Tools**: AWS, Apache Kafka, Jenkins, Git
+- **Languages and Libraries**: Python, C++, JavaScript, Java, Go, typescript, Sk-learn, Keras, PyTorch, React.js,Next.js
+- **Database and Frameworks**: MongoDB, SQL, DynamoDB, REST API, gRPC, GraphQL
+- **Machine Learning**: RAG , LLM , LoRA, Supervised Fine tuning, Reinforcement Learning , Langchain, Pinecone
+- **Others**: Scikit-Learn, Applied Mathematics, AI, Data Modeling, System Design, Exploratory Data Analysis, Algorithm Development,A/B testing, tensorflow, AWS, Apache Kafka ,PostgreSQL, linux, Data Ingestion, git, kubernetes, Distributed Systems , Jenkins ,AutoML
 
 ## Work Experience
-- **Micron Technology**: Improved deep learning models and optimized data pipelines for faster and more efficient processing.
-- **BYJU'S**: Developed robust APIs and improved the performance of high-traffic interfaces.
-- **KloudOne**: Enhanced container security platform deployments and integrated continuous integration/continuous deployment workflows.
+- **Micron Technology**: Designed a distributed Deep Learning model using PyTorch Lightning to improve the electronic design automation process by 17%. Trained the GCN model on a multi-GPU cluster using Pytorch DDP.
+- **BYJU'S**: Developed microservices using Node.js and Java as per REST architecture to meet the requirements of over 2 million inventory requests used for global delivery of retail products. Reduced the latency by 42% using an event driven architecture using Apache Kafka.
+- **KloudOne**: Built and deployed microservices in Go using gRPC for Accuknox, a container security platform.Improved CI/CD (Continuous Integration/Continuous Deployment ) pipeline using Jenkins to reduce downtime by 27%.
 
 ## Education
-- **Master of Science in Machine Learning**, Stevens Institute of Technology
+- **Master of Science in Machine Learning**, Stevens Institute of Technology 
 - **Bachelor of Technology in Computer Science and Engineering**, Manipal Institute of Technology
 
 ## Publications
-- [Deep Neural Network Approach for Navigation of Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9418189): My research, published in IEEE, explores the use of CNNs for autonomous vehicle navigation.
+- [Deep Neural Network Approach for Navigation of Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9418189):Designed a CNN-based Deep Learning model for navigation of autonomous vehicles using over 200,000 real-world images and sensor data, integrating image compression and normalization techniques for GPU memory optimization
+- Published in IEEE, 6th International Conference for Convergence in Technology as first author. Citations – 4, h- index -1
 

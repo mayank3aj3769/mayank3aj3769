@@ -35,6 +35,7 @@ A modern, responsive social media platform inspired by Meta's Threads. Built wit
 - **Bachelor of Technology in Computer Science and Engineering**, Manipal Institute of Technology
 
 ## Publications
-- [Deep Neural Network Approach for Navigation of Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9418189):Designed a CNN-based Deep Learning model for navigation of autonomous vehicles using over 200,000 real-world images and sensor data, integrating image compression and normalization techniques for GPU memory optimization
-- Published in IEEE, 6th International Conference for Convergence in Technology as first author. Citations – 4, h- index -1
+- [Deep Neural Network Approach for Navigation of Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9418189)
+  - Designed a CNN-based Deep Learning model for navigation of autonomous vehicles using over 200,000 real-world images and sensor data, integrating image compression and normalization techniques for GPU memory optimization
+  - Published in IEEE, 6th International Conference for Convergence in Technology as first author. Citations – 4, h- index -1
 

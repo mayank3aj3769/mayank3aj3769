@@ -8,7 +8,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mayank-ra
 Explore my projects to see detailed applications of machine learning and deep learning across various domains:
 
 ### [Deep Learning Projects](https://github.com/mayank3aj3769/Machine-Learning-Projects.git)
-A collection of academic projects demonstrating the use of deep learning techniques in various scenarios:
+A collection of projects demonstrating the use of deep learning techniques in various scenarios:
 
 - **[Voice-enabled RAG chatbot](https://github.com/mayank3aj3769/chatbot.git)**: Voice-enabled Retrieval-Augmented Generation (RAG) chatbot built on the LLaMA-2 model, integrated with Pinecone for vector search and LangChain for managing the chat capabilities. It is designed to understand and respond to voice queries by referencing content within PDF documents and delivering responses in a synthesized voice.
 - **[Lexical Complexity Predictor](https://github.com/mayank3aj3769/Machine-Learning-Projects/tree/11548fc1881932d000cfa9ddf6e6635c7c999573/Lexical%20Complexity%20Score%20Predictor%20using%20a%20BERT%20Based%20model)**: Predicting the complexity of words using transformer-based models like BERT and RoBERTa.
@@ -17,8 +17,10 @@ A collection of academic projects demonstrating the use of deep learning techniq
 - **[Semantic Network from Tweets](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/11548fc1881932d000cfa9ddf6e6635c7c999573/Semantic%20Network%20based%20on%20tweets%20containing%20a%20keyword.ipynb)**: Building semantic networks from tweets containing specific keywords.
 - **[N-Gram and RNN Text Generator](https://github.com/mayank3aj3769/Machine-Learning-Projects/blob/0929256462d91c0403d7a76708f8298510449b09/N-gram%20and%20RNN%20based%20language%20model%20for%20text%20generation.ipynb)**: Text generation using N-Gram models and RNNs with TensorFlow.
   
-### [SocialMediaApp](https://thread-mraj.vercel.app/)
-A modern, responsive social media platform inspired by Meta's Threads. Built with TypeScript, Next.js, and Tailwind CSS.
+### Backend and Full Stack Projects 
+A collections of projects demonstrating the use of Backend frameworks.
+
+- **[SocialMediaApp](https://thread-mraj.vercel.app/)**: A modern, responsive social media platform inspired by Meta's Threads. Built with TypeScript, Next.js, and Tailwind CSS.
 
 ## Skills
 - **Languages and Libraries**: Python, C++, JavaScript, Java, Go, typescript, Sk-learn, Keras, PyTorch, React.js,Next.js

@@ -7,7 +7,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mayank-ra
 ## Projects
 Explore my projects to see detailed applications of machine learning and deep learning across various domains:
 
-### [Deep Learning Projects](https://github.com/mayank3aj3769/Machine-Learning-Projects.git)
+### [Deep Learning Projects]
 A collection of projects demonstrating the use of deep learning techniques in various scenarios:
 
 - **[Voice-enabled RAG chatbot](https://github.com/mayank3aj3769/chatbot.git)**: Voice-enabled Retrieval-Augmented Generation (RAG) chatbot built on the LLaMA-2 model, integrated with Pinecone for vector search and LangChain for managing the chat capabilities. It is designed to understand and respond to voice queries by referencing content within PDF documents and delivering responses in a synthesized voice.

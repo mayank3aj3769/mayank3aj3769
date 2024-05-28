@@ -21,6 +21,8 @@ A collection of projects demonstrating the use of deep learning techniques in va
 A collections of projects demonstrating the use of Backend frameworks.
 
 - **[SocialMediaApp](https://thread-mraj.vercel.app/)**: A modern, responsive social media platform inspired by Meta's Threads. Built with TypeScript, Next.js, and Tailwind CSS.
+- **[GokuDB](https://github.com/mayank3aj3769/Golang-projects.git)**:  A high-performance database management system written in Go, leveraging powerful concurrency model to achieve efficient
+multithreaded operations, capable of large-scale data processing . Implemented JSON-based data storage and retrieval, with query handling for rapid access and manipulation of diverse data-sets
 
 ## Skills
 - **Languages and Libraries**: Python, C++, JavaScript, Java, Go, typescript, Sk-learn, Keras, PyTorch, React.js,Next.js

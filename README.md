@@ -31,20 +31,11 @@ multithreaded operations, capable of large-scale data processing . Implemented J
 - **Others**: Scikit-Learn, Applied Mathematics, AI, Data Modeling, System Design, Exploratory Data Analysis, Algorithm Development,A/B testing, tensorflow, AWS, Apache Kafka ,PostgreSQL, linux, Data Ingestion, git, kubernetes, Distributed Systems , Jenkins ,AutoML
 
 ## Work Experience
-- **Software Development Engineer-2, Scimplify**: Engineered scalable, fault-tolerant microservices in fastAPI for internal tools, addressing the product team's requirements for supply
-chain problems and supporting over 200 manufacturing units.
--- Leveraged Elasticsearch to index products and manufacturers, leveraging edge n-gram tokenization to enable fast, fuzzy search
-capabilities, reducing p99 latency by 52%
--- Built a RAG based chatbot by fine-tuning Mistral-7B for an in-house platform using Langchain framework and Pinecone vectorDB to
-handle customer queries on specialty chemicals and their properties. Deployed on AWS EC2
+- **Software Development Engineer-2, Scimplify**: Engineered scalable, fault-tolerant microservices in fastAPI for internal tools, addressing the product team's requirements for supply chain problems and supporting over 200 manufacturing units.Leveraged Elasticsearch to index products and manufacturers, leveraging edge n-gram tokenization to enable fast, fuzzy search capabilities, reducing p99 latency by 52%. Built a RAG based chatbot by fine-tuning Mistral-7B for an in-house platform using Langchain framework and Pinecone vectorDB to handle customer queries on specialty chemicals and their properties. Deployed on AWS EC2
 
-- **Deep Learning Intern, Micron Technology**: Spearheaded optimization efforts that led to a 30% improvement in data retrieval speed for constructing abstract syntax trees and
-control and data flow graphs, enhancing Graph Convolutional Network data feed efficiency
+- **Deep Learning Intern, Micron Technology**: Spearheaded optimization efforts that led to a 30% improvement in data retrieval speed for constructing abstract syntax trees and control and data flow graphs, enhancing Graph Convolutional Network data feed. Decreased the training time of the model using a multi-GPU cluster for training on distributed systems using PyTorch DDP to reduce training time by 23.6%. Redesigned and improved Deep learning models using PyTorch framework to improve the branch coverage and line-coverage for EDA (Electronic Design Automation) by 17.21% to expedite the semiconductor design process
 
--- Decreased the training time of the model using a multi-GPU cluster for training on distributed systems using PyTorch DDP to reduce training time by 23.6%. Redesigned and improved Deep learning models using PyTorch framework to improve the branch coverage and line-coverage for EDA (Electronic Design Automation) by 17.21% to expedite the semiconductor design process
-
-- **BYJU'S**: Developed and deployed machine learning models in Python to forecast inventory demand and optimize supply chain logistics, improving the accuracy of inventory management by 15% and reducing delivery times.
--- Developed microservices using Node.js as per REST architecture to meet the requirements of over 2 million inventory requests used for global delivery of retail products. Reduced the latency by 42% using an event driven architecture using Apache Kafka.
+- **BYJU'S**: Developed and deployed machine learning models in Python to forecast inventory demand and optimize supply chain logistics, improving the accuracy of inventory management by 15% and reducing delivery times.Developed microservices using Node.js as per REST architecture to meet the requirements of over 2 million inventory requests used for global delivery of retail products. Reduced the latency by 42% using an event driven architecture using Apache Kafka.
 
 - **KloudOne**: Built and deployed microservices in Go using gRPC for Accuknox, a container security platform.Improved CI/CD (Continuous Integration/Continuous Deployment ) pipeline using Jenkins to reduce downtime by 27%.
 

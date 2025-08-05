@@ -1,6 +1,5 @@
 # Mayank Raj
-
-Hello! I'm Mayank, a Machine Learning Engineer . My background includes a Masters degree in Machine Learning, with a focus on Deep Learning and Natural Language Processing. I am a Software Engineer with 3 years of work experience in building microservices. I'm skilled at fixing scaling issues, implementing new features, and upgrading microservices to handle more traffic. 
+Hi , I am Mayank , I am an ML Engineer with 4 years of experience and a strong background in Machine Learning, Deep Learning and core Software Engineering principles. Skilled in translating client requirements into scalable microservices and deploying production-grade Deep Learning and NLP models for text, image, and multi-modal data
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mayank-raj77)
 
